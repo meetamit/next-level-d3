@@ -1,3 +1,5 @@
+**This presentation is deployed and [available here](http://two-n.com/talks/next-level-d3/)**
+
 ## Building and Running locally
 
 1. Clone the repo
